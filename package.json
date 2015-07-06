@@ -1,6 +1,6 @@
 {
   "name": "expect-to-be-a-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A chai matcher to assert the return value of a function is a thenable.",
   "main": "index.js",
   "scripts": {
